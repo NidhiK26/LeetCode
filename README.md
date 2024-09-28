@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/NidhiK26/LeetCode/tree/master/0045-jump-game-ii) |
 | [0485-max-consecutive-ones](https://github.com/NidhiK26/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1036-rotting-oranges](https://github.com/NidhiK26/LeetCode/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/NidhiK26/LeetCode/tree/master/0045-jump-game-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/NidhiK26/LeetCode/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/NidhiK26/LeetCode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
