@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/NidhiK26/LeetCode/tree/master/0045-jump-game-ii) |
+| [0238-product-of-array-except-self](https://github.com/NidhiK26/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/NidhiK26/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1036-rotting-oranges](https://github.com/NidhiK26/LeetCode/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/NidhiK26/LeetCode/tree/master/1250-longest-common-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/NidhiK26/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
