@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/NidhiK26/LeetCode/tree/master/0045-jump-game-ii) |
+| [1250-longest-common-subsequence](https://github.com/NidhiK26/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/NidhiK26/LeetCode/tree/master/1036-rotting-oranges) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/NidhiK26/LeetCode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
