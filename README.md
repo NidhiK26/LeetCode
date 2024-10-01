@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NidhiK26/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/NidhiK26/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/NidhiK26/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/NidhiK26/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/NidhiK26/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NidhiK26/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/NidhiK26/LeetCode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
