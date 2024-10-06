@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/NidhiK26/LeetCode/tree/master/0045-jump-game-ii) |
+| [0200-number-of-islands](https://github.com/NidhiK26/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/NidhiK26/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/NidhiK26/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1036-rotting-oranges](https://github.com/NidhiK26/LeetCode/tree/master/1036-rotting-oranges) |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NidhiK26/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/NidhiK26/LeetCode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NidhiK26/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/NidhiK26/LeetCode/tree/master/1036-rotting-oranges) |
 ## String
 |  |
@@ -57,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/NidhiK26/LeetCode/tree/master/0445-add-two-numbers-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/NidhiK26/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/NidhiK26/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
