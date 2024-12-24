@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NidhiK26/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/NidhiK26/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/NidhiK26/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0932-monotonic-array](https://github.com/NidhiK26/LeetCode/tree/master/0932-monotonic-array) |
 | [1036-rotting-oranges](https://github.com/NidhiK26/LeetCode/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
