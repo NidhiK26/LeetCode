@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/NidhiK26/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/NidhiK26/LeetCode/tree/master/0051-n-queens) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NidhiK26/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/NidhiK26/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/NidhiK26/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/NidhiK26/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/NidhiK26/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/NidhiK26/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NidhiK26/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/NidhiK26/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1250-longest-common-subsequence](https://github.com/NidhiK26/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
